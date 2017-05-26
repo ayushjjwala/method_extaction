@@ -1,0 +1,13 @@
+kernel
+image segmentation
+similarity
+ecoli
+gaussian radial basis
+ci ml
+pima indian diabetes
+normalized
+rbf
+pca
+iris ecoli pi
+nmi
+normalized kernels
